@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul Sah
 - 👀 I’m interested in android development ,backend development
 - 🌱 I’m currently Android, kotlin, node.js , expess,mongoose ...etc
-- 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me rahulkrsah1999@gamil.com
 
 <!---
